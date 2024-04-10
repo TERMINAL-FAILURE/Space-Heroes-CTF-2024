@@ -1,1 +1,1 @@
-# Space-Heroes-2024
+# Space Heroes CTF - 2024
