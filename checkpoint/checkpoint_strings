@@ -1,0 +1,38 @@
+[91mz
+[94mz
+kDr     |t
+Nz_You're cruising through Tatooine with C-3PO and R2. Jawas cross your path and peep your droids.z Jawa: Giviwi mikee juwir dlauds!z8You: [1]No! [2](Speed off) [3]Huh? I don't know Jawaese.
+Your response: 
+USEz@The Jawas pulled a slick one and stole your droids successfully.)
+print
+RESET
+BLUE
+input
+BUFFER_SIZE
+        question2
+userResponse
+bufferOverflows
+EC:\Users\jorda\OneDrive\Documents\School\CSE4860\RE\src\checkpoint.py
+        question1r
+kDr     |t
+NzPYou continue your journey when suddenly... Tuskan Raiders appear out of nowhere!z)Raider: KRRRREEEERRRRRHHHH!!! ERRRRH ERH!z?You: [1](Try to reason with them) [2](Speed off) [3](Open fire)r
+THEzBThe raiders opened fire and your droid companions did not make it.)
+        question3r
+kDr     |t
+NzUA bounty hunter catches up to you. He's looking to collect the bounty on your droids.z[Bounty Hunter: If you want to live to see you tomorrow, you're gonna hand over your droids.zGYou: [1]Or what? [2]You got the wrong droids. [3](Give up R2 and C-3PO)r
+FORCEzAThe bounty hunter puts you six feet under and steals your droids.)
+        question4r
+kDr     |t
+Nz[You finally arrive to the main trading center in Tatooine. You get stopped at a checkpoint.z,Trooper: How long have you had these droids?zMYou: [1]About three or four seasons. [2]What droids? [3]They're not for sale.r
+LUKEzCThe troopers opened fire and your droid companions did not make it.)
+        printFlagr
+y#1s
+Yywx
+/flag/flag.txt
+Error: flag file not found.)
+openr
+readr
+FileNotFoundError)
+files
+N)      r
+<module>r%
