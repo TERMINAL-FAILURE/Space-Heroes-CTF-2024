@@ -509,7 +509,7 @@ shctf{th353_4r3_n0t_th3_dr01d5_y0ur3_l00k1ng_f0r}
 
 ## NOTE
 
-solve.py is literally just connecting to the challenge in interactive mode with pwntools. We couldn't get it to work automatically with the script for some reason.
+solve.py consists of importing pwntools, establishing the connection and receiving and sending the necessary answers to the prompts.
 
 ```py
 #!/usr/bin/python3
