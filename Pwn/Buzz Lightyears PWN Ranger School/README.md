@@ -171,7 +171,7 @@ p.interactive()
 
 ### win()
 
-Finally we run our script and our presented with the flag.
+Finally we run our script and are presented with the flag.
 
 ```shctf{t0_pwnf1nity_&_b3y0nd!}```
 
