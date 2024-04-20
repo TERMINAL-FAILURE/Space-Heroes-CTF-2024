@@ -98,7 +98,8 @@ By executing the script, the participant successfully overflowed the buffer and 
 the ROP chain, resulting in a shell. Through this shell, the flag was retrieved with the
 command cat flag.txt, revealing the contents:  
   
-![](Images/fallingimage6.png)
+![](Images/fallingimage6.png)  
+  
 ***shctf{ha3_mu$t_n3v3r_w1n_6184}***
 
 ## Solver Script  
